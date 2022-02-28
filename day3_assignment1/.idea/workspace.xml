@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf3b5503-b7ca-4a2f-9481-1120c483941a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../day2_assignment2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../day2_assignment2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2_assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day2_assignment2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2_assignment3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day2_assignment3/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cee1b75e-c135-425d-b811-1f2fb8ef9ac0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3_assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day3_assignment2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +26,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="25VH6XUs0rt2lCaGz0FLbEFNAj4" />
+  <component name="ProjectId" id="25VqlW84rWoimpCMDqcM1o6HdDF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,12 +35,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day 1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day3_assignment2" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunManager">
-    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
+    <configuration name="Day3Assignment1Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.Day3Assignment1Application" />
       <module name="day3_assignment1" />
       <extension name="coverage">
         <pattern>
@@ -55,18 +54,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="Application.Day3Assignment1Application" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf3b5503-b7ca-4a2f-9481-1120c483941a" name="Changes" comment="" />
-      <created>1645605160593</created>
+      <changelist id="cee1b75e-c135-425d-b811-1f2fb8ef9ac0" name="Changes" comment="" />
+      <created>1645622753206</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1645605160593</updated>
+      <updated>1645622753206</updated>
     </task>
     <servers />
   </component>

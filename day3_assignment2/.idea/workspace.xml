@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09cd24cc-8205-4387-a730-f8736d28c061" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../day2_assignment2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../day2_assignment2/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day2_assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day2_assignment2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day2_assignment3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day2_assignment3/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5ce3ef47-e84c-4900-a56d-0eb4dce06a4b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../day3_assignment1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day3_assignment1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,15 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -44,23 +51,22 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="25UtsP00GLGtXR0pu3l9Gkt2juB" />
+  <component name="ProjectId" id="25Vr6xemWr7Nm0L8aChwa8fNLFP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day2_assignment1" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunManager">
-    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
-      <module name="JpaWithSpringBoot" />
+    <configuration name="Day3Assignment3Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.Day3Assignment3Application" />
+      <module name="day3_assignment3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.demo.*" />
@@ -73,18 +79,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="Application.Day3Assignment3Application" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="09cd24cc-8205-4387-a730-f8736d28c061" name="Changes" comment="" />
-      <created>1645593699315</created>
+      <changelist id="5ce3ef47-e84c-4900-a56d-0eb4dce06a4b" name="Changes" comment="" />
+      <created>1645622922773</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1645593699315</updated>
+      <updated>1645622922773</updated>
     </task>
     <servers />
   </component>
